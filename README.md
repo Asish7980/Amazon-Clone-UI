@@ -56,7 +56,15 @@ No backend or API functionality is included—this is a static UI clone for lear
 ```
 📸 Screenshots
 ```
-amazon1.jpg
+### Header
+![Signup Page](screenshots/amazon1.png)
+
+### Shop Section
+![Login Page](screenshots/amazon2.png)
+
+### Footer
+![Home Page](screenshots/amazon3.png)
+
 ```
 🛠️ Technologies Used
 ```
