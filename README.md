@@ -66,7 +66,7 @@ No backend or API functionality is included—this is a static UI clone for lear
 ![Footer](screenshots/amazon3.png)
 
 
-🛠️ Technologies Used
+# 🛠️ Technologies Used
 ```
 HTML5
 
@@ -76,12 +76,12 @@ JavaScript (for dynamic parts)
 
 Flexbox & Grid Layout
 ```
-📚 Learning Purpose
+# 📚 Learning Purpose
 ```
 This project was built as part of a Frontend Development Practice and to better understand responsive layouts and UI cloning techniques.
 ```
-📩 Feedback or Contributions
+# 📩 Feedback or Contributions
 ```
 Feel free to fork, improve, or give feedback by opening issues or pull requests.
 ```
-© 2025 Asish Shaw
+# © 2025 Asish Shaw
