@@ -54,18 +54,18 @@ No backend or API functionality is included—this is a static UI clone for lear
 5. Footer:
 * Contains multiple sections with links to various pages and information about Amazon.
 ```
-📸 Screenshots
-```
-### Header
-![Signup Page](screenshots/amazon1.png)
+## 📸 Screenshots
 
-### Shop Section
-![Login Page](screenshots/amazon2.png)
+### 🧭 Header
+![Header](screenshots/amazon1.png)
 
-### Footer
-![Home Page](screenshots/amazon3.png)
+### 🛍️ Shop Section
+![Shop Section](screenshots/amazon2.png)
 
-```
+### 🔻 Footer
+![Footer](screenshots/amazon3.png)
+
+
 🛠️ Technologies Used
 ```
 HTML5
